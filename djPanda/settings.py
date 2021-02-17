@@ -26,7 +26,7 @@ SECRET_KEY = 'wy6@en+(j079&0w#fou9@owu=dz_uel65*%n6gk21xo^j)ryxf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*', 'https://djpanda.azurewebsites.net']
+ALLOWED_HOSTS = ['*', 'https://djpando.azurewebsites.net']
 
 
 # Application definition
